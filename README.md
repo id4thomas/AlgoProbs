@@ -1,6 +1,7 @@
 # AlgoProbs
 Algorithm Problems
 
-Baekjoon
-
-Samsung SW
+## Sources
+* Baekjoon
+* Samsung SW
+* Leetcode
