@@ -2,6 +2,6 @@
 Algorithm Problems
 
 ## Sources
-* Baekjoon
-* Samsung SW
-* Leetcode
+* [Baekjoon](./Baekjoon)
+* [Samsung SW](./SamsungSW/)
+* [Leetcode](./Leetcode)
