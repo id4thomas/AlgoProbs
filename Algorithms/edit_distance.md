@@ -18,8 +18,8 @@ Leetcode 72 [[link]](https://leetcode.com/problems/edit-distance/) [[code]](../L
     + Make an array size (m+1)\*(n+1)
         + Initialize row 0 & column 0 as index value
     + for loop i & j
-        +  **arr[i][j] = min(arr[i-1][j], arr[i][j-1], arr[i-1][j-1]+substitution_cost)**
-        + substitution_cost: 0 if same, 1 if difference
+        +  **arr[i][j] = min(arr[i-1][j]+1, arr[i][j-1]+1, arr[i-1][j-1]+substitution_cost)**
+        + substitution_cost: 0 if same, 1 if different
 
 ![wagner_fischer](./figs/wagner_fischer.png)
 
