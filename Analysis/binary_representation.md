@@ -2,7 +2,7 @@
 Problems utilizing binary representation of integers.
 
 
-## Counting Bits (338)
+## Counting Bits (Leetcode 338)
 Get the number of 1s in binary representation.
 
 Case:
