@@ -57,3 +57,7 @@ class Solution:
 text1 = "ylqpejqbalahwr"
 text2 = "yrkzavgdmdgtqpg"
 Solution().longestCommonSubsequence(text1,text2)
+
+text1 = "pneumonoultramicroscopicsilicovolcanoconiosis"
+text2 = "stereomicroscopically"
+print(Solution().longestCommonSubsequence(text1,text2))
